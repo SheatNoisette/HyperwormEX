@@ -1,0 +1,9 @@
+voxel
+*.dSYM
+build/
+.vscode/
+.clangd
+*.gcno
+*.gcda
+*.gcov
+*.zip
